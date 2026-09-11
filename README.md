@@ -10,10 +10,14 @@ Also you can get rate-limited.
 * FFmpeg (added to system PATH)
 * Python packages: `pip install yt-dlp pillow`
 
- ### ENABLE HTTP REQUESTS
+
+### ENABLE HTTP REQUESTS
  Make sure to enable HTTP requests in the game settings, or else this wont work.
  
  ![HTTP Requests Toggle in Studio](HTTPrequest.png)
+ 
+ ### SOUND DOESNT WORK:
+ if you know how to implement sound, lemme know.
 
 
  If you have anything you want to ask me (could be anything, dont be hesitant) email me at contact@araslmao.me. I will respond.
