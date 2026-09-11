@@ -8,3 +8,4 @@ A Roblox map that allows you to watch YouTube videos using HTTP requests.
 
  ### ENABLE HTTP REQUESTS
  Make sure to enable HTTP requests in the game settings, or else this wont work.
+ ![HTTP Requests Toggle in Studio](HTTPrequest.png)
