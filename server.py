@@ -9,7 +9,8 @@ import time
 import yt_dlp
 from PIL import Image
 import io
-
+# this is kind of vibecoded, though i still wrote some stuff manually too.
+# it was literally 2 AM when i made this
 latest_ascii = "Loading video..."
 frame_lock = threading.Lock()
 is_streaming = False
@@ -172,7 +173,7 @@ class AppGUI:
     def __init__(self, root):
         self.root = root
         root.title("BloxTube Server")
-        root.geometry("400x330") # are you are you coming to the tree woawoaowaowoawoawaowo
+        root.geometry("400x330") 
         
         tk.Label(root, text="Server Running...", fg="green", font=("Arial", 12, "bold")).pack(pady=5)
         
